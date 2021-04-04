@@ -27,7 +27,6 @@ namespace OrgAPI
         {
             app.UseDeveloperExceptionPage();
             app.UseMvc();
-            int a;
         }
     }
 }
